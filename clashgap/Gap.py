@@ -1,7 +1,10 @@
-def list_has(arr, index):
+# This file contains the clashgap implementation
+# and all the functions required for the clashgap function
+
+def _list_has(arr, index):
     return (len(arr) > index)
 
-def max_elem(arr):
+def _max_elem(arr):
     arb_val = len(arr[0])
     index = 0
     for i in range(len(arr)):
@@ -13,10 +16,10 @@ def max_elem(arr):
 def gap(clash):
     res = []
     buff = ['', '']
-    for i in range(len(max_elem(clash))):
-        if list_has(clash[0], i):
+    for i in range(len(_max_elem(clash))):
+        if _list_has(clash[0], i):
             buff[0] += clash[0][i]
-        if list_has(clash[1], i):
+        if _list_has(clash[1], i):
             buff[1] += clash[1][i]
 
         collision = -1
