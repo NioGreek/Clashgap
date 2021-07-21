@@ -2,6 +2,7 @@
 
 ![Version](https://img.shields.io/pypi/v/clashgap?label=version)
 [![Downloads](https://pepy.tech/badge/clashgap/month)](https://pepy.tech/project/clashgap)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](http://makeapullrequest.com)
 ![Tests](https://github.com/NioGreek/Clashgap/actions/workflows/pytest.yml/badge.svg)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ad33454aad9d4847ba0a8d1ca3ae2500)](https://app.codacy.com/gh/NioGreek/Clashgap?utm_source=github.com&utm_medium=referral&utm_content=NioGreek/Clashgap&utm_campaign=Badge_Grade_Settings)
 
