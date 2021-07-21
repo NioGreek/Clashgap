@@ -38,6 +38,6 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
-    - name: Build
+    - name: Build with poetry
       run: |
         poetry build
