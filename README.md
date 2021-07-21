@@ -8,7 +8,7 @@
 [![Docs Status](https://readthedocs.org/projects/clashgap/badge/?version=latest)](https://clashgap.readthedocs.io/en/latest/?badge=latest)
 
 A per-charecter diff/compression algorithm implementation in python
-
+ 
 ### How it works
 In case if you have two strings:
 > "This is a sentence..." and "This is a word..."
