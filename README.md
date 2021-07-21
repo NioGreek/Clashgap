@@ -1,4 +1,5 @@
 ## Clashgap
+![PyPI - Downloads](https://img.shields.io/pypi/dm/clashgap)
 
 A per-charecter diff/compression algorithm implementation in python
 
