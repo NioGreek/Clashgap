@@ -1,4 +1,6 @@
 ## Clashgap
+![AppVeyor tests](https://img.shields.io/appveyor/tests/NioGreek/Clashgap)
+
 A per-charecter diff/compression algorithm implementation in python
 
 ### How it works
