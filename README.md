@@ -1,8 +1,8 @@
 ## Clashgap
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ad33454aad9d4847ba0a8d1ca3ae2500)](https://app.codacy.com/gh/NioGreek/Clashgap?utm_source=github.com&utm_medium=referral&utm_content=NioGreek/Clashgap&utm_campaign=Badge_Grade_Settings)
-
+![AppVeyor tests](https://img.shields.io/appveyor/tests/NioGreek/Clashgap)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/clashgap)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ad33454aad9d4847ba0a8d1ca3ae2500)](https://app.codacy.com/gh/NioGreek/Clashgap?utm_source=github.com&utm_medium=referral&utm_content=NioGreek/Clashgap&utm_campaign=Badge_Grade_Settings)
 
 A per-charecter diff/compression algorithm implementation in python
 
