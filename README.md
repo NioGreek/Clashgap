@@ -5,7 +5,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/NioGreek/Clashgap)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ad33454aad9d4847ba0a8d1ca3ae2500)](https://app.codacy.com/gh/NioGreek/Clashgap?utm_source=github.com&utm_medium=referral&utm_content=NioGreek/Clashgap&utm_campaign=Badge_Grade_Settings)
 
-A per-charecter diff/compression algorithm implementation in python
+A per-charecter diff/compression algorithm implementation in python 
 
 ### How it works
 In case if you have two strings:
