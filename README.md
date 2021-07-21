@@ -1,5 +1,5 @@
 ## Clashgap
-![AppVeyor tests](https://img.shields.io/appveyor/tests/NioGreek/Clashgap)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/clashgap)
 
 A per-charecter diff/compression algorithm implementation in python
 
