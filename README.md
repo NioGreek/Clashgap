@@ -4,7 +4,6 @@
 [![Downloads](https://pepy.tech/badge/clashgap/month)](https://pepy.tech/project/clashgap)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](http://makeapullrequest.com)
 [![Tests](https://github.com/NioGreek/Clashgap/actions/workflows/pytest.yml/badge.svg)](https://github.com/NioGreek/Clashgap/actions)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ad33454aad9d4847ba0a8d1ca3ae2500)](https://app.codacy.com/gh/NioGreek/Clashgap)
 
 A per-charecter diff/compression algorithm implementation in python
 
