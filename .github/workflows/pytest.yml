@@ -1,7 +1,7 @@
 # This workflow will install Python dependencies, run tests and lint with all supported python versions
 # Runs on pull requests and push
 
-name: Tests
+name: tests
 
 on:
   push:
