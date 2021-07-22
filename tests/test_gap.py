@@ -7,9 +7,8 @@ def test_listHas():
     assert cg._gap.list_has(arr, 2) == False
 
 def test_collision():
-    assert cg._gap.collision("spam", "ham") == 2, 1
+    assert cg._gap.collision("spam", "ham") == (2, 1)
 
 def test_gap():
     arr = ["spam", "ham"]
     assert cg.gap(arr) == [['sp', 'h'], 'am']
-

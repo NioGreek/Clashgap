@@ -18,7 +18,6 @@ def gap(clash):
         buff[0] += clash[0][i]
         if list_has(clash[1], i):
             buff[1] += clash[1][i]
-        print(buff)
 
         o, l = collision(buff[0], buff[1])
         
@@ -37,4 +36,5 @@ def gap(clash):
         res.append(buff)
 
     return res
+
 
