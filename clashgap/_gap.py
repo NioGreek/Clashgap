@@ -1,5 +1,4 @@
-# This file contains the clashgap implementation
-# and all the functions required for the clashgap function
+# This file contains the gap implementation and all the functions required for it
 
 def list_has(arr, index):
     return (len(arr) > index)
@@ -36,5 +35,4 @@ def gap(clash):
         res.append(buff)
 
     return res
-
 
