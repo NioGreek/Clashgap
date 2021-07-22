@@ -1,7 +1,7 @@
 ## Clashgap
 
 [![Version](https://img.shields.io/pypi/v/clashgap?label=version)](https://pypi.org/project/clashgap)
-[![Downloads](https://pepy.tech/badge/clashgap/month)](https://pepy.tech/project/clashgap)
+[![Downloads](https://static.pepy.tech/personalized-badge/clashgap?period=month&units=abbreviation&left_color=grey&right_color=blue&left_text=downloads/month)](https://pepy.tech/project/clashgap)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](http://makeapullrequest.com)
 [![Code Quality](https://img.shields.io/lgtm/grade/python/g/NioGreek/Clashgap.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/NioGreek/Clashgap/context:python)
 [![Tests Status](https://github.com/NioGreek/Clashgap/actions/workflows/test.yml/badge.svg)](https://github.com/NioGreek/Clashgap/actions)
