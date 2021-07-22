@@ -8,7 +8,7 @@ readme = "README.md"
 
 homepage = "https://pypi.org/project/clashgap/"
 repository = "https://github.com/NioGreek/Clashgap"
-documentation = "https://pypi.org/project/clashgap/"
+documentation = "https://clashgap.readthedocs.io/en/latest/"
 
 keywords = ["diff"]
 
