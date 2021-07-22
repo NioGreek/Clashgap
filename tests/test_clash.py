@@ -1,12 +1,12 @@
 import pytest
 import clashgap as cg
 
-clash = cg.Clash(["ham", "spam"])
+clash = cg.Clash(["spam", "ham"])
 def test_gap():
-    assert clash.gap() == [['h', 'sp'], 'am']
+    assert clash.gap() == [['sp', 'h'], 'am']
 
 def test_repr():
-    assert repr(clash) == "[['h', 'sp'], 'am']"
+    assert repr(clash) == "[['sp', 'h'], 'am']"
 
 def test_str():
-    assert str(clash) == "[['h', 'sp'], 'am']"
+    assert str(clash) == "[['sp', 'h'], 'am']"
