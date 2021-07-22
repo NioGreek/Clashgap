@@ -20,7 +20,7 @@ def gap(clash):
             buff[1] += clash[1][i]
 
         o, l = collision(buff[0], buff[1])
-        
+
         if o != -1:
             if buff[0][:o] or buff[1][:l]:
                 res += [[buff[0][:o], buff[1][:l]], buff[1][l]]
@@ -28,10 +28,10 @@ def gap(clash):
                 res += buff[1][l]
             else:
                 res[-1] += buff[1][l]
-            
+
             buff[0] = buff[0][o+1:]
             buff[1] = buff[1][l+1:]
-            
+
     if buff[0] or buff[1]:
         res.append(buff)
 

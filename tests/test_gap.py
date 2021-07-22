@@ -12,4 +12,3 @@ def test_collision():
 def test_gap():
     assert cg.gap(["spam", "ham"]) == [['sp', 'h'], 'am']
 
-print(cg.gap(["spam", "ham"]))

@@ -9,6 +9,6 @@ class Clash:
 
     def __repr__(self):
         return str(self._gap)
-    
+
     def __str__(self):
         return str(self._gap)
