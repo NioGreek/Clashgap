@@ -4,7 +4,7 @@
 def list_has(arr, index):
     return (len(arr) > index)
 
-def _collision(arr, brr):
+def collision(arr, brr):
     for i in range(len(arr)):
         collision = brr.find(arr[i])
         if collision != -1:
