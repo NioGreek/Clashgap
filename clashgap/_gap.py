@@ -5,7 +5,7 @@ def list_has(arr, index):
     return (len(arr) > index)
 
 def collision(arr, brr):
-    for i in range(len(arr)):
+    for i in enumerate(arr):
         collision = brr.find(arr[i])
         if collision != -1:
             return i, collision
@@ -14,7 +14,7 @@ def collision(arr, brr):
 def gap(clash):
     res = []
     buff = ['', '']
-    for i in range(len(clash[0])):
+    for i in enumerate(clash[0]):
         buff[0] += clash[0][i]
         if list_has(clash[1], i):
             buff[1] += clash[1][i]
@@ -24,7 +24,7 @@ def gap(clash):
         if o != -1:
             if buff[0][:o] or buff[1][:l]:
                 res += [[buff[0][:o], buff[1][:l]], buff[1][l]]
-            elif (len(res) == 0) or (type(res[-1]) is list):
+            elif (len(res) == 0) or (isinstance(res[-1], list)):
                 res += buff[1][l]
             else:
                 res[-1] += buff[1][l]
