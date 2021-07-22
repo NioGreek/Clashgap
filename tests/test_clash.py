@@ -6,5 +6,7 @@ def test_gap():
     assert clash.gap() == [['h', 'sp'], 'am']
 
 def test_repr():
-    assert clash.__repr__() == "[['h', 'sp'], 'am']"
-
+    assert repr(clash) == "[['h', 'sp'], 'am']"
+    
+def test_str():
+    assert str(clash) == "[['h', 'sp'], 'am']"

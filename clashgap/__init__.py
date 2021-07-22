@@ -1,5 +1,5 @@
-from .Clash import Clash
-from .Gap import gap
+from ._clash import Clash
+from ._gap import gap
 
-__version__ = '0.1.0'
+__version__ = '0.2.0'
 

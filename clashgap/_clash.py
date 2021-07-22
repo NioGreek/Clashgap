@@ -1,4 +1,4 @@
-from .Gap import gap
+from ._gap import gap
 
 class Clash:
     def __init__(self, clash):
@@ -9,4 +9,6 @@ class Clash:
 
     def __repr__(self):
         return str(self._gap)
-
+    
+    def __str__(self):
+        return str(self._gap)
