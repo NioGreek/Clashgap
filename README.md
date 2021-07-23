@@ -6,7 +6,7 @@
 [![Code Quality](https://img.shields.io/lgtm/grade/python/g/NioGreek/Clashgap.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/NioGreek/Clashgap/context:python)
 [![Tests Status](https://github.com/NioGreek/Clashgap/actions/workflows/test.yml/badge.svg)](https://github.com/NioGreek/Clashgap/actions)
 [![Build Status](https://github.com/NioGreek/Clashgap/actions/workflows/build.yml/badge.svg)](https://github.com/NioGreek/Clashgap/actions)
-[![Docs Status](https://readthedocs.org/projects/clashgap/badge/?version=latest)](https://clashgap.readthedocs.io/en/latest/?badge=latest)
+[![Docs Status](https://readthedocs.org/projects/clashgap/badge/?version=latest)](https://clashgap.readthedocs.io/en/latest/)
 
 A per-charecter diff/compression algorithm implementation in python
 
