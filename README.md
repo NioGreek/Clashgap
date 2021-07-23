@@ -10,6 +10,7 @@
 
 A per-charecter diff/compression algorithm implementation in python
 
+
 ## How it works
 
 In case if you have two strings:
