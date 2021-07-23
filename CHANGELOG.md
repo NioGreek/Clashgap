@@ -16,7 +16,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Now you can use the str() function for clash objects
-- Introducing badges in the README
 - You can find Issue Tracker link on the PyPI project page now
 
 ### Changed
