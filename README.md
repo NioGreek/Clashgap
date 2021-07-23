@@ -10,7 +10,8 @@
 
 A per-charecter diff/compression algorithm implementation in python
 
-### How it works
+## How it works
+
 In case if you have two strings:
 > "This is a sentence..." and "This is a word..."
 
