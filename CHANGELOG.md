@@ -9,22 +9,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
--  Introducing CHANGELOG.md
+- Introducing CHANGELOG.md
 
 ## [v0.2.0][]: Quality Rollup 0x00 - 2021-07-23
 
 ### Added
 
--  Now you can use the str() function for clash objects
--  You can find Issue Tracker link on the PyPI project page now
+- Now you can use the str() function for clash objects
+- You can find Issue Tracker link on the PyPI project page now
 
 ### Changed
 
--  Several Internal code quality improvements and standardization
+- Several Internal code quality improvements and standardization
 
 ## [v0.1.0][]: The Birth! - 2021-07-22
 
--  Initial release
+- Initial release
 
 [unreleased]: https://github.com/NioGreek/Clashgap/compare/v0.2.0...HEAD
 [v0.2.0]: https://github.com/NioGreek/Clashgap/compare/v0.1.0...v0.2.0
