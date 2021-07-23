@@ -11,7 +11,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Introducing CHANGELOG.md
 
-
 ## [v0.2.0: Quality Rollup 0x00][] - 2021-07-23
 
 ### Added
