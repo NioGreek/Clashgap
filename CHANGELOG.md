@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Introducing CHANGELOG.md
 
-## [v0.2.0: Quality Rollup 0x00][] - 2021-07-23
+## [v0.2.0][]: Quality Rollup 0x00 - 2021-07-23
 
 ### Added
 
@@ -23,10 +23,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Several Internal code quality improvements and standardization
 
-## [v0.1.0: The Birth!][] - 2021-07-22
+## [v0.1.0][]: The Birth! - 2021-07-22
 
 - Initial release
 
 [unreleased]: https://github.com/NioGreek/Clashgap/compare/v0.2.0...HEAD
-[v0.2.0: quality rollup 0x00]: https://github.com/NioGreek/Clashgap/compare/v0.1.0...v0.2.0
-[v0.1.0: the birth!]: https://github.com/NioGreek/Clashgap/releases/tag/v0.1.0
+[v0.2.0]: https://github.com/NioGreek/Clashgap/compare/v0.1.0...v0.2.0
+[v0.1.0]: https://github.com/NioGreek/Clashgap/releases/tag/v0.1.0
