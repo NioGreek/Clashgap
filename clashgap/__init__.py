@@ -1,6 +1,6 @@
-from ._clash import *
-from ._gap import *
-from ._fill import *
+from ._clash import Clash
+from ._gap import gap
+from ._fill import fill
 
 __version__ = '0.2.0'
 
