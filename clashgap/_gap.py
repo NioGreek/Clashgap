@@ -10,7 +10,7 @@ def _collision(arr, brr):
             return i, collision
     return -1, 0
 
-def gap(clash):
+def _gap(clash):
     res = []
     buff = ['', '']
     for i, _ in enumerate(clash[0]):
