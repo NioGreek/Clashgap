@@ -1,9 +1,9 @@
 # This file contains the gap implementation and all the functions required for it
 
-def list_has(arr, index):
+def _list_has(arr, index):
     return (len(arr) > index)
 
-def collision(arr, brr):
+def _collision(arr, brr):
     for i, _ in enumerate(arr):
         collision = brr.find(arr[i])
         if collision != -1:
@@ -15,10 +15,10 @@ def gap(clash):
     buff = ['', '']
     for i, _ in enumerate(clash[0]):
         buff[0] += clash[0][i]
-        if list_has(clash[1], i):
+        if _list_has(clash[1], i):
             buff[1] += clash[1][i]
 
-        o, l = collision(buff[0], buff[1])
+        o, l = _collision(buff[0], buff[1])
 
         if o != -1:
             if buff[0][:o] or buff[1][:l]:
