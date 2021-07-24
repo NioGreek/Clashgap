@@ -7,6 +7,5 @@ def fill(gap):
         else: #type(g) is list
             res[0] += g[0]
             res[1] += g[1]
-    
-    return res
 
+    return res
