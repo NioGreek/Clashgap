@@ -35,4 +35,3 @@ def gap(clash):
         res.append(buff)
 
     return res
-
