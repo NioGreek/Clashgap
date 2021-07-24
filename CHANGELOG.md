@@ -12,6 +12,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Introducing CHANGELOG
 - You can now find the Changelog link on the PyPI project page
 - Implemented gap() function
+- Defined \_\_all\_\_; Now you can use `from clashgap import *`
+
+### Changed
+
+- Internal code quality improvements and standardization
+
 
 ## [v0.2.0][]: Quality Rollup 0x00 - 2021-07-23
 
