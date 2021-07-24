@@ -1,4 +1,3 @@
-import pytest
 import clashgap as cg
 
 def test_version():

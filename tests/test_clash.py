@@ -1,4 +1,3 @@
-import pytest
 import clashgap as cg
 
 clash = cg.Clash(["spam", "ham"])
