@@ -9,14 +9,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Introducing CHANGELOG.md
+- Introducing CHANGELOG
+- You can now find the Changelog link on the PyPI project page
+- Implemented gap() function
 
 ## [v0.2.0][]: Quality Rollup 0x00 - 2021-07-23
 
 ### Added
 
 - Now you can use the str() function for clash objects
-- You can find Issue Tracker link on the PyPI project page now
+- You can now find Issue Tracker link on the PyPI project page
 
 ### Changed
 
