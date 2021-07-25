@@ -8,7 +8,7 @@
 [![Build Status](https://github.com/NioGreek/Clashgap/actions/workflows/build.yml/badge.svg)](https://github.com/NioGreek/Clashgap/actions)
 [![Docs Status](https://readthedocs.org/projects/clashgap/badge/?version=latest)](https://clashgap.readthedocs.io/en/latest/)
 
-A per-charecter diff/compression algorithm implementation in python
+A per-character diff/compression algorithm implementation in python
 
 ## How it works
 

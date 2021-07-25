@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "clashgap"
 version = "1.0.0"
-description = "A per-charecter diff/compression algorithm in python"
+description = "A per-character diff/compression algorithm in python"
 license = "MIT"
 authors = ["NioGreek <GreekNio@gmail.com>"]
 readme = "README.md"
