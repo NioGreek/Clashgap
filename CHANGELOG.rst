@@ -14,7 +14,7 @@ Added
 -  Introducing CHANGELOG
 -  You can now find the Changelog link on the PyPI project page
 -  Implemented gap() function
--  Defined \_\_all\_\_; Now you can use ``from clashgap import *``
+-  Defined __all__; Now you can use ``from clashgap import *``
 
 Changed
 ~~~~~~~
