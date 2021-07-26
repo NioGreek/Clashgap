@@ -10,7 +10,7 @@ homepage = "https://pypi.org/project/clashgap/"
 repository = "https://github.com/NioGreek/Clashgap"
 documentation = "https://clashgap.readthedocs.io/en/latest/"
 
-keywords = ["diff"]
+keywords = ["diff", "compression"]
 
 [tool.poetry.urls]
 "Bug Tracker" = "https://github.com/NioGreek/Clashgap/issues"
