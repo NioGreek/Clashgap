@@ -8,10 +8,10 @@ Open a compatible Python shell and follow along
 .. code-block:: python
 
    >>> import clashgap as cg
-   
+
    >>> cg.gap(["spam", "ham"])
    [['sp', 'h'], 'am']
-   
+
    >>> cg.fill([['sp', 'h'], 'am'])
    ["spam", "ham"]
 
