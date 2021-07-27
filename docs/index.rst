@@ -1,7 +1,7 @@
 Getting Started with Clashgap
 =============================
 
-Clashgap is a diff/compression module in python
+Clashgap is a diff/compression module in Python
 
 How it works
 ------------
