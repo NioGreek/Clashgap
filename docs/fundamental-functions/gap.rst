@@ -22,7 +22,7 @@ stdout:
 
    [["sp", "h"], "am"]]
 
-The gap() and fill() functions are inverse of each other. So ``fill(gap(x)) == x`` and ``gap(fill(y)) == y`` are both True, for any valid x and y
+The gap() and fill() functions are inverse of each other. So ``fill(gap(x)) == x`` and ``gap(fill(y)) == y`` are both True, for any valid ``x`` and ``y``
 
 .. note::
    The gap function currently only supports input list of length two
