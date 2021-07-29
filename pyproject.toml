@@ -14,7 +14,7 @@ keywords = ["diff", "compression"]
 
 [tool.poetry.urls]
 "Bug Tracker" = "https://github.com/NioGreek/Clashgap/issues"
-"Changelog" = "https://clashgap.readthedocs.io/en/latest/changelog.html"
+"Changelog" = "https://clashgap.readthedocs.io/en/latest/about-clashgap/changelog.html"
 
 [tool.poetry.dependencies]
 python = ">=3.5"
