@@ -1,5 +1,6 @@
+************
 Installation
-============
+************
 
 The installation is simple and obvious. Assuming you have Python and pip installed, enter the following into the command line
 

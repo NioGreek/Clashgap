@@ -1,10 +1,11 @@
+*****************************
 Getting Started with Clashgap
-=============================
+*****************************
 
 Clashgap is a diff/compression module in Python
 
 How it works
-------------
+============
 
 In case if you have two strings:
 
@@ -17,7 +18,7 @@ you could "clash" both of them together and find their gap, to get an array loki
 As you can the clashgap algorithm looks for collisions in the two strings to find the gap. The clashgaped string maybe used for compression or as the diff of the input strings
 
 Getting Started
----------------
+===============
 
 To start using the package you would have to install it. Have a look at the Installation guide. After that out of the way, give it a try by following the instructions at the Give it a try guide
 
@@ -33,7 +34,7 @@ To start using the package you would have to install it. Have a look at the Inst
    getting-started/give-it-a-try
 
 Fundamental Functions
----------------------
+=====================
 
 The fundamental functions of the package is ``gap()`` and ``fill()``
 
@@ -49,7 +50,7 @@ The fundamental functions of the package is ``gap()`` and ``fill()``
    fundamental-functions/gap
 
 Advanced Features
------------------
+=================
 
 You could also check out thre Clash class, which enables you instantiate a Clash object, with the input array.
 
@@ -63,7 +64,7 @@ You could also check out thre Clash class, which enables you instantiate a Clash
    advanced-features/clash
 
 About Clashgap
---------------
+==============
 
 To find more about the project, you may head on to any of these links
 

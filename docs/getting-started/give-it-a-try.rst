@@ -1,5 +1,6 @@
+*************
 Give it a try
-=============
+*************
 
 This page assumes that you have already :doc:`installed clashgap<installation>`
 

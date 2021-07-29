@@ -1,5 +1,6 @@
+*******************
 The gap() functions
-===================
+*******************
 
 The gap function is used to combine a list with two elements into a gap object. It accepts a list with two elements as parameter, and returns another list representing the gap of the input list
 

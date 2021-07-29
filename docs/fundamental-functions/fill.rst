@@ -1,5 +1,6 @@
+*******************
 The fill() function
-===================
+*******************
 
 The fill function is used to combine a gap object, to get the clash. It accepts a list representing the gap as parameter, and returns another list representing the clash
 
