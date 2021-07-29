@@ -9,12 +9,15 @@ The format is based on `Keep a Changelog <https://keepachangelog.com/en/1.0.0/>`
 `Unreleased <https://github.com/NioGreek/Clashgap/compare/v0.2.0...HEAD>`__
 ===========================================================================
 
+`v1.0.0 <https://github.com/NioGreek/Clashgap/compare/v0.2.0...v1.0.0>`__: The fill() function - 2021-07-29
+===========================================================================================================
+
 Added
 -----
 
 -  Introducing CHANGELOG
 -  You can now find the Changelog link on the PyPI project page
--  Implemented gap() function
+-  Implemented fill() function
 -  Defined __all__; Now you can use ``from clashgap import *``
 
 Changed
